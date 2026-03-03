@@ -1,1 +1,1 @@
-# edakakdoma-bot
+# edakakdomabot
